@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ejercicio-react-monstruos/static/css/main.db8892ff.chunk.css",
+    "main.js": "/ejercicio-react-monstruos/static/js/main.6b34e2fa.chunk.js",
+    "main.js.map": "/ejercicio-react-monstruos/static/js/main.6b34e2fa.chunk.js.map",
+    "runtime-main.js": "/ejercicio-react-monstruos/static/js/runtime-main.6074fc60.js",
+    "runtime-main.js.map": "/ejercicio-react-monstruos/static/js/runtime-main.6074fc60.js.map",
+    "static/js/2.87136607.chunk.js": "/ejercicio-react-monstruos/static/js/2.87136607.chunk.js",
+    "static/js/2.87136607.chunk.js.map": "/ejercicio-react-monstruos/static/js/2.87136607.chunk.js.map",
+    "index.html": "/ejercicio-react-monstruos/index.html",
+    "precache-manifest.8e873a343ed7391bbb60dbcfd0d36153.js": "/ejercicio-react-monstruos/precache-manifest.8e873a343ed7391bbb60dbcfd0d36153.js",
+    "service-worker.js": "/ejercicio-react-monstruos/service-worker.js",
+    "static/css/main.db8892ff.chunk.css.map": "/ejercicio-react-monstruos/static/css/main.db8892ff.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6074fc60.js",
+    "static/js/2.87136607.chunk.js",
+    "static/css/main.db8892ff.chunk.css",
+    "static/js/main.6b34e2fa.chunk.js"
+  ]
+}
